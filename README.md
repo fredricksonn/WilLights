@@ -29,3 +29,8 @@ The code is everything else in this repository. There are three files right now,
 1. Definitions - Variables and constants that I will use everywhere else
 2. Functions - Things that I might want to call multiple times, I put in functions and place in their own file.
 3. The executive - Actually does stuff. 
+
+## Useful Links
+Controlling the LEDS - https://create.arduino.cc/projecthub/electropeak/neopixel-how-to-control-ws2812-rgb-led-w-arduino-46c08f
+
+Potentiometer code - https://www.arduino.cc/en/tutorial/potentiometer
