@@ -34,7 +34,7 @@ The power supply should be plugged into the +/- on the side of the breadboard. I
 The code is everything else in this repository. There are three files right now, and you can move stuff around as you want to. I like to organize my code into three sections:
 1. Definitions - Variables and constants that I will use everywhere else
 2. Functions - Things that I might want to call multiple times, I put in functions and place in their own file.
-3. The executive - Actually does stuff. 
+3. The executive - Actually does stuff. In this case its the *.INO file. It includes the other two headers to get access to everything, then calls it.
 
 ## Useful Links
 Controlling the LEDS - https://create.arduino.cc/projecthub/electropeak/neopixel-how-to-control-ws2812-rgb-led-w-arduino-46c08f
