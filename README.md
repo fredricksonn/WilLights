@@ -1,7 +1,13 @@
 # WilLights
 Merry Christmas and Happy Early Birthday! I hope this present brings you as much joy as I found in making it.
 ## Overview
-So this whole thing is kind of a starter kit. Right now it is setup for controlling LED light strips, and the code in this repository can be edited to do what you want. This is in a different language than what you know, but I think you will be able to figure it out.
+So this whole thing is kind of a starter kit. Right now it is setup for controlling LED light strips, and the code in this repository can be edited to do what you want. This is in a different language than what you know (mostly C/C++), but I think you will be able to figure it out.
+
+## Setup
+### Software
+You will need some particular software to do this stuff. The only required one is the Arduino software, which can be found [here](https://www.arduino.cc/en/software).
+
+I also recommend getting a better text editor, like [Visual Studio Code](https://code.visualstudio.com/download)
 ## Parts
 | Part | Description |
 |---|---|
