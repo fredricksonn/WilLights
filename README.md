@@ -7,7 +7,7 @@ So this whole thing is kind of a starter kit. Right now it is setup for controll
 ### Software
 You will need some particular software to do this stuff. The only required one is the Arduino software, which can be found [here](https://www.arduino.cc/en/software).
 
-I also recommend getting a better text editor, like [Visual Studio Code](https://code.visualstudio.com/download)
+I also recommend getting a better text editor, like [Visual Studio Code](https://code.visualstudio.com/download).
 ## Parts
 | Part | Description |
 |---|---|
